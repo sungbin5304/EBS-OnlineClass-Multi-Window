@@ -2,4 +2,4 @@
 ebs online class multi window open script.
 
 # Usage
-**학습 이어가기**가 보이는 화면에서 [[this]](https://github.com/sungbin5304/EBS-OnlineClass-Multi-Window/blob/master/script.js) 코드를 전체복사해서 F12를 누르고 콘솔창에 붙여넣기.
+Copy the [this](https://github.com/sungbin5304/EBS-OnlineClass-Multi-Window/blob/master/script.js) code on the screen where you can continue learning and press F12 and paste it in the console window.
